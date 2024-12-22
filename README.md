@@ -128,7 +128,7 @@ Support students, academics, and professionals in systematic inquiry and present
 
 Clone the repository:
 
-git clone https://github.com/username/Research-Basic-and-Latex-Files.git  
+git clone https://github.com/UsamaAhmed-Reseracher/Research-Basic-and-Latex-Files.git  
 
 Explore LaTeX templates for your research projects.
 
